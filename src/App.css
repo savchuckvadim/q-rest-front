@@ -15,7 +15,7 @@ p, h1, h2, h3, textarea{
 
 h1{
   font-weight: 700;
-  /* font-size: 24px; */
+ 
 }
 p, textarea{
   font-style: normal;
@@ -33,38 +33,6 @@ p, textarea{
 }
 
 
-
-
-/* .active {
-  
-  margin: 0px;
-  background-color: white;
-  opacity: 150%;
-
-}
-.active p {
-  color:red;
- 
-
-}
-
-.active path{
-  stroke: rgb(255, 0, 0);
-  opacity: 110%;
-  
-} */
-
-.test-container{
-  margin: 0 auto;
-  padding: 0;
-  min-width: 100vh;
-  min-height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  background-color: #F4F4F4;
-}
 
 
 [class*=_frame]{
